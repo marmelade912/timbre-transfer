@@ -1,0 +1,7 @@
+Pre-trained models used in timbre transfer patch (Bach Violin Model [1], Soprano Sax Model [2]):
+
+https://drive.google.com/drive/folders/1o9gGRPafefN0Pj0r1qEea3GRJ87Mvosf?usp=sharing
+
+[1] Article: Timbre Transfer with Machine Learning by Isaac Io Schankler | Cycling ’74. Accessed: April, 2024. [Online]. Available: https://cycling74.com/articles/timbre-transfer-with-machine-learning-by-isaac-io-schankler
+
+[2] Franziska S., Intelligent Instruments Lab, rave-models (Revision ad15daf) . Hugging Face , 2023. doi: 10.57967/hf/1235 .
