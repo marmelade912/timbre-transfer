@@ -1,4 +1,4 @@
-# "Real-Time" Timbre Transfer Patch
+# Real-Time Timbre Transfer
 
 
 This project utilizes nn~ object in Max and RAVE (Realtime Audio Variational autoEncoder). It allows the user to modify the pitch and timbre of the audio signals. 
